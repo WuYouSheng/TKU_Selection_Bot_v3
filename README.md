@@ -53,6 +53,7 @@
 ### Demo影片：
 
 ![截圖 2024-03-01 23.55.33](https://hackmd.io/_uploads/ryvRcu1Ta.jpg)
+https://youtu.be/TqvTW3G23Hs
 備註，影片中使用Mac做範例，Windows使用介面大同小異
 
 ### 備註1(開啟任何來源)：
